@@ -70,6 +70,8 @@ This portfolio demonstrates a **balanced combination of hands-on labs, threat re
 - Assisted with **risk assessment and remediation guidance**, translating technical findings into actionable recommendations  
 - Gained experience working within a **real-world development environment**, balancing security findings with business and operational context
 
+[Read More →](Web-App-Security/README.md)
+
 ---
 
 ## Blog: When a GIF Isn’t Just a GIF
