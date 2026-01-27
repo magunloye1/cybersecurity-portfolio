@@ -6,19 +6,14 @@ I focus on **Continous Monitoring, Windows Forensics, IAM, and vulnerability man
 
 ---
 
-## Skills & Tools
-
-- **Platforms:** Windows Server, Linux, Azure, AWS  
-- **Security:** IAM / Entra ID, Vulnerability Management, Incident Response, AD Security, System Hardening  
-- **Tools:** Wazuh, Security Onion, Zeek, Wireshark, Metasploit, John the Ripper, Hashcat, tcpdump, PowerShell, Python scripting  
-- **Other:** Network monitoring, log analysis, forensic investigation
-
 ## 🛠 Skills & Focus Areas
 
+- **Platforms:** Windows Server, Linux, Azure, AWS 
 - **Incident Response & Digital Forensics**: Log analysis, packet capture, malware inspection  
 - **Identity & Access Management (IAM)**: Active Directory and Entra ID configurations  
 - **System Administration**: Windows Server, Linux, hybrid environments, hardening techniques  
-- **Threat Monitoring & Analysis**: Honeypots, IDS (Wazuh, Security Onion), network monitoring  
+- **Threat Monitoring & Analysis**: Honeypots, network monitoring
+- **Tools:** Wazuh, Security Onion, Zeek, Wireshark, Metasploit, John the Ripper, Hashcat, tcpdump
 - **Scripting & Automation**: Python, Bash, PowerShell
 
 ---
