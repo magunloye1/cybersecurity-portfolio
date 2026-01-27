@@ -13,6 +13,14 @@ I focus on **Continous Monitoring, Windows Forensics, IAM, and vulnerability man
 - **Tools:** Wazuh, Security Onion, Zeek, Wireshark, Metasploit, John the Ripper, Hashcat, tcpdump, PowerShell, Python scripting  
 - **Other:** Network monitoring, log analysis, forensic investigation
 
+## 🛠 Skills & Focus Areas
+
+- **Incident Response & Digital Forensics**: Log analysis, packet capture, malware inspection  
+- **Identity & Access Management (IAM)**: Active Directory and Entra ID configurations  
+- **System Administration**: Windows Server, Linux, hybrid environments, hardening techniques  
+- **Threat Monitoring & Analysis**: Honeypots, IDS (Wazuh, Security Onion), network monitoring  
+- **Scripting & Automation**: Python, Bash, PowerShell
+
 ---
 
 ## Projects
