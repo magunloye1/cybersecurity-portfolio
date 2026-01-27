@@ -1,9 +1,6 @@
 # cybersecurity-portfolio
 Hands-on cybersecurity projects focused on incident response, IAM, and threat analysis.
 
-Hi, I’m Marvelous — a recent Cybersecurity graduate with hands-on experience in system administration, IAM, and incident response across hybrid environments.  
-, with practical experience in **Azure/Entra ID, Active Directory, Linux, and cloud platforms**.
-
 **Welcome!**
 Hi, I’m Marvelous - a cybersecurity graduate with hands-on experience in system administration, IAM, and incident response across hybrid environments. This portfolio showcases my practical projects, attack analysis, and research insights, with an emphasis on **Windows and Linux environments, Active Directory/Entra ID, vulnerability management, and threat monitoring**.
 
