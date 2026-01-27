@@ -6,7 +6,35 @@ Conducted a controlled web application penetration test on internal Hometrumpete
 **Objectives:**  
 - Assess authentication and session management for potential vulnerabilities.  
 - Test input validation to detect injection or parameter manipulation risks.  
-- Identify misconfigurations and weak access control settings.  
+- Identify misconfigurations and weak access control settings.
+
+### Pentesting Workflow
+    +---------------------+
+    |  Target Web App     |
+    +---------------------+
+             |
+             v
+    +---------------------+
+    | Recon & Mapping     |
+    | (Burp Suite / ZAP)  |
+    +---------------------+
+             |
+             v
+    +---------------------+
+    | Vulnerability Tests |
+    | (Input / Auth / RCE)|
+    +---------------------+
+             |
+             v
+    +---------------------+
+    | Exploit / Validation|
+    +---------------------+
+             |
+             v
+    +---------------------+
+    | Reporting & Remed.  |
+    +---------------------+
+
 
 **Tools & Techniques:**  
 - **Burp Suite:** Intercepted and analyzed web traffic for potential security issues.  
@@ -31,6 +59,5 @@ Conducted a controlled web application penetration test on internal Hometrumpete
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-This summary highlights the workflow, tools, and techniques I applied during web application assessments, demonstrating hands-on experience relevant for **SOC, Vulnerability Management, and DFIR roles**.
 
 
