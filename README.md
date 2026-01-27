@@ -2,7 +2,11 @@
 Hands-on cybersecurity projects focused on incident response, IAM, and threat analysis.
 
 Hi, I’m Marvelous — a recent Cybersecurity graduate with hands-on experience in system administration, IAM, and incident response across hybrid environments.  
-I focus on **Continous Monitoring, Windows Forensics, IAM, and vulnerability management**, with practical experience in **Azure/Entra ID, Active Directory, Linux, and cloud platforms**.
+, with practical experience in **Azure/Entra ID, Active Directory, Linux, and cloud platforms**.
+
+**Welcome!**
+Hi, I’m Marvelous - a cybersecurity graduate with hands-on experience in system administration, IAM, and incident response across hybrid environments. This portfolio showcases my practical projects, attack analysis, and research insights, with an emphasis on **Windows and Linux environments, Active Directory/Entra ID, vulnerability management, and threat monitoring**.
+
 
 ---
 
@@ -18,25 +22,29 @@ I focus on **Continous Monitoring, Windows Forensics, IAM, and vulnerability man
 
 ---
 
-## Projects
+## 📁 Projects
 
-### 1. Home Lab / On-Prem Environment
-- Built a multi-OS Active Directory domain with Linux integration  
-- Configured file server, certificate authority, and RDS  
-- Implemented host and network-based intrusion detection using Wazuh and Security Onion  
-- Conducted vulnerability testing and exploitation simulations  
+### 1. Home Lab & AD Environment
+- Designed and deployed a hybrid **Windows + Linux domain environment**  
+- Configured **Active Directory with DHCP & DNS, File Server, Certificate Authority, RDS**, with multi-platform domain joined devices
+- Implemented host and network-based intrusion detection using Wazuh and Security Onion 
+- Conducted vulnerability testing and exploitation using **Metasploit, John the Ripper, Hashcat**
 
 [Read More →](AD-DC-System-Hardening/README.md)
 
-### 2. Honeypot & Threat Observation
-- Deployed Raspberry Pi honeypot with SANS Cowrie and custom logging  
-- Monitored attacks targeting IoT devices, performed traffic analysis, and extracted malware payloads  
+### 2. Honeypot Threat Analysis
+- Set up and deployed an internet-facing honeypot on **Raspberry Pi 4**  with SANS Cowrie server config and custom logs
+- Monitored and captured attacks targeting IoT devices, performed traffic analysis, and extracted malware payloads  
 - Summarized multiple attack observations, highlighting payloads, MITRE techniques, and prevention strategies  
+- **Detailed observations & analyses**:  
+  - [Attack Observations](Honeypot-Threat-Analysis/Observations.md)  
+  - [Polyglot File Research – Blog Post](BlogPosts/WhenAGIFIsntJustAGIF.md)  
 
-[Read More →](Honeypot-Threat-Analysis/README.md)
-[Read Observations →](Honeypot-Threat-Analysis/Observations.md)
+### 3. Cloud & IAM Experiments
+- Worked with **Azure & AWS environments** to configure IAM and security policies  
+- Explored AD and Entra ID integrations, user management, and hardening best practices  
 
-### 3. Blog: When a GIF Isn’t Just a GIF
+### 4. Blog: When a GIF Isn’t Just a GIF
 - Analysis of polyglot files used for stealth malware delivery in IoT devices  
 - Demonstrated RCE payload detection, file carving, and defensive measures  
 
@@ -44,8 +52,9 @@ I focus on **Continous Monitoring, Windows Forensics, IAM, and vulnerability man
 
 ---
 
-## Contact
+## Connect
  
 - LinkedIn: (https://www.linkedin.com/in/marv-wip)  
 - GitHub: (https://github.com/magunloye1)
 
+*Thank you for visiting! Please explore my projects to follow my cybersecurity journey.*
