@@ -3,12 +3,7 @@
 **Overview:**  
 Conducted a controlled web application penetration test on internal Hometrumpeter applications to identify security gaps, evaluate access controls, and assess overall application resilience.
 
-**Objectives:**  
-- Assess authentication and session management for potential vulnerabilities.  
-- Test input validation to detect injection or parameter manipulation risks.  
-- Identify misconfigurations and weak access control settings.
-
-### Pentesting Workflow
+#### Pentesting Workflow
     +---------------------+
     |  Target Web App     |
     +---------------------+
@@ -35,6 +30,10 @@ Conducted a controlled web application penetration test on internal Hometrumpete
     | Reporting & Remed.  |
     +---------------------+
 
+**Objectives:**  
+- Assess authentication and session management for potential vulnerabilities.  
+- Test input validation to detect injection or parameter manipulation risks.  
+- Identify misconfigurations and weak access control settings.
 
 **Tools & Techniques:**  
 - **Burp Suite:** Intercepted and analyzed web traffic for potential security issues.  
