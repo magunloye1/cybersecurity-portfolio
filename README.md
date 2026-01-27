@@ -4,6 +4,16 @@ Hands-on cybersecurity projects focused on incident response, IAM, and threat an
 **Welcome!**
 Hi, I’m Marvelous - a cybersecurity graduate with hands-on experience in system administration, IAM, and incident response across hybrid environments. This portfolio showcases my practical projects, attack analysis, and research insights, with an emphasis on **Windows and Linux environments, Active Directory/Entra ID, vulnerability management, and threat monitoring**.
 
+---
+
+## 📖 Portfolio Overview
+
+This portfolio demonstrates a **balanced combination of hands-on labs, threat research, and technical write-ups**, providing real-world examples of:
+
+- Threat detection & incident response  
+- Vulnerability management and system hardening  
+- Hybrid identity and access control implementation  
+- Analytical and report-writing skills for security documentation  
 
 ---
 
@@ -37,11 +47,15 @@ Hi, I’m Marvelous - a cybersecurity graduate with hands-on experience in syste
   - [Attack Observations](Honeypot-Threat-Analysis/Observations.md)  
   - [Polyglot File Research – Blog Post](BlogPosts/WhenAGIFIsntJustAGIF.md)  
 
-### 3. Cloud & IAM Experiments
+### 3. Cloud & IAM 
 - Worked with **Azure & AWS environments** to configure IAM and security policies  
-- Explored AD and Entra ID integrations, user management, and hardening best practices  
+- Explored AD and Entra ID integrations, user management, and system hardening best practices
 
-### 4. Blog: When a GIF Isn’t Just a GIF
+### 4. Web App Penetration Testing
+
+---
+
+## Blog: When a GIF Isn’t Just a GIF
 - Analysis of polyglot files used for stealth malware delivery in IoT devices  
 - Demonstrated RCE payload detection, file carving, and defensive measures  
 
