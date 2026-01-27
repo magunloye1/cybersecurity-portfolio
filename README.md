@@ -27,8 +27,6 @@ This portfolio demonstrates a **balanced combination of hands-on labs, threat re
 - **Tools:** Wazuh, Security Onion, Zeek, Wireshark, Metasploit, John the Ripper, Hashcat, tcpdump
 - **Scripting & Automation**: Python, Bash, PowerShell
 
-- ### Skills & Tools
-
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat&logo=microsoft-active-directory&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
@@ -37,7 +35,6 @@ This portfolio demonstrates a **balanced combination of hands-on labs, threat re
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-017AFF?style=flat&logo=wireshark&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-FF5C00?style=flat&logo=metasploit&logoColor=white)
-
 
 ---
 
