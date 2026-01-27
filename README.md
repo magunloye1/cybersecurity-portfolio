@@ -51,7 +51,15 @@ This portfolio demonstrates a **balanced combination of hands-on labs, threat re
 - Worked with **Azure & AWS environments** to configure IAM and security policies  
 - Explored AD and Entra ID integrations, user management, and system hardening best practices
 
-### 4. Web App Penetration Testing
+### 4. Web Application Security (Hometrumpeter Inc.)
+- Supported web application security assessments as part of a collaborative security review effort  
+- Conducted **manual and automated testing** aligned with OWASP Top 10 categories  
+- Identified and documented issues related to:
+  - Authentication and authorization weaknesses  
+  - Input validation and injection risks  
+  - Insecure configurations and exposed services  
+- Assisted with **risk assessment and remediation guidance**, translating technical findings into actionable recommendations  
+- Gained experience working within a **real-world development environment**, balancing security findings with business and operational context
 
 ---
 
