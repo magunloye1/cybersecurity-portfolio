@@ -23,3 +23,14 @@ Conducted a controlled web application penetration test on internal Hometrumpete
 - Strengthened overall security posture by delivering remediation guidance.  
 - Gained hands-on experience in web application security aligned with SOC, vulnerability management, and incident response responsibilities.
 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF5722?style=flat&logo=burpsuite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-0C4DA2?style=flat&logo=owasp&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT--CK-FF0000?style=flat)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+This summary highlights the workflow, tools, and techniques I applied during web application assessments, demonstrating hands-on experience relevant for **SOC, Vulnerability Management, and DFIR roles**.
+
+
