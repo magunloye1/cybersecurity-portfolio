@@ -23,13 +23,14 @@ I focus on **Continous Monitoring, Windows Forensics, IAM, and vulnerability man
 - Implemented host and network-based intrusion detection using Wazuh and Security Onion  
 - Conducted vulnerability testing and exploitation simulations  
 
-[Read More →](Honeypot-Threat-Analysis/README.md)
+[Read More →](AD-DC-System-Hardening/README.md)
 
 ### 2. Honeypot & Threat Observation
 - Deployed Raspberry Pi honeypot with SANS Cowrie and custom logging  
 - Monitored attacks targeting IoT devices, performed traffic analysis, and extracted malware payloads  
 - Summarized multiple attack observations, highlighting payloads, MITRE techniques, and prevention strategies  
 
+[Read More →](Honeypot-Threat-Analysis/README.md)
 [Read Observations →](Honeypot-Threat-Analysis/Observations.md)
 
 ### 3. Blog: When a GIF Isn’t Just a GIF
