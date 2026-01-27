@@ -1,4 +1,4 @@
-## Web Application Penetration Testing with Hometrumpeter
+## Web Application Penetration Testing with Hometrumpeter Inc.
 
 **Overview:**  
 Conducted a controlled web application penetration test on internal Hometrumpeter applications to identify security gaps, evaluate access controls, and assess overall application resilience.
