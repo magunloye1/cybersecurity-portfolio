@@ -90,6 +90,11 @@ This portfolio demonstrates a **balanced combination of hands-on labs, threat re
 
 ---
 
+🔗 Certifications & Verification  
+(Certifications)
+
+---
+
 ## Connect
  
 - LinkedIn: (https://www.linkedin.com/in/marv-wip)  
