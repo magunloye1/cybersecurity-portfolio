@@ -6,17 +6,10 @@ This repository documents my professional certifications in cybersecurity, ident
 
 ## 🔐 Core Security Certifications
 
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6b27b413-e4eb-42ac-a6c9-5c755b8272ae" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
-
+### GIAC Certified Forensic Examiner (GCFE) 
 <p align="right">
   <img src="https://images.credly.com/size/110x110/images/GCFE.png" alt="GIAC GCFE" />
-  <img src="https://images.credly.com/size/110x110/images/GCIH.png" alt="GIAC GCIH" />
-  <img src="https://images.credly.com/size/110x110/images/GCIA.png" alt="GIAC GCIA" />
-  <img src="https://images.credly.com/size/110x110/images/GMON.png" alt="GIAC GMON" />
 </p>
-
-### GIAC Certified Forensic Examiner (GCFE)
 - Focus: Digital Forensics, Incident Response, Windows Artifacts
 - Skills: Evidence acquisition, timeline analysis, DFIR methodology
 - Status: Certified
