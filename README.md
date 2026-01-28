@@ -91,7 +91,7 @@ This portfolio demonstrates a **balanced combination of hands-on labs, threat re
 ---
 
 🔗 Certifications & Verification  
-(Certifications/README.md)
+https://github.com/magunloye1/Certifications
 
 ---
 
