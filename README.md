@@ -91,7 +91,7 @@ This portfolio demonstrates a **balanced combination of hands-on labs, threat re
 ---
 
 🔗 Certifications & Verification  
-(Certifications)
+(Certifications/README.md)
 
 ---
 
