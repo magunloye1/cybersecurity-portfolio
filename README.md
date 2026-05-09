@@ -114,7 +114,28 @@ This portfolio demonstrates a **balanced combination of hands-on labs, threat re
 
 ---
 
-## 🔗 Certifications & Verification  
+## 🔗 Certifications
+
+| Certification | Issuer | Status |
+|---|---|---|
+| GCFE — Certified Forensic Examiner | GIAC | ✅ [Verify](https://www.credly.com/badges/6b27b413-e4eb-42ac-a6c9-5c755b8272ae/public_url) |
+| GMON — Threat Detection & Monitoring | GIAC | ✅ [Verify](https://www.credly.com/badges/3ccdafed-be03-498b-a217-086d0bc8d194/public_url) |
+| GCIA — Certified Intrusion Analyst | GIAC | ✅ [Verify](https://www.credly.com/badges/1140c87d-8fdb-40c1-bc76-5b5dba6124c3/public_url) |
+| GCIH — Certified Incident Handler | GIAC | ✅ [Verify](https://www.credly.com/badges/87598346-8263-48e6-ae87-73a2a64d5765/public_url) |
+| GSEC — Security Essentials | GIAC | ✅ [Verify](https://www.credly.com/badges/bdb5d38d-5a6f-4d2e-8ab4-7f8c2ea6b771/public_url) |
+| GPYC — Python Coder | GIAC | ✅ [Verify](https://www.credly.com/badges/0e5a995e-3c7e-4ad5-b17d-c9cf4ed3f90d/public_url) |
+| GFACT — Foundational Cybersecurity Technologies | GIAC | ✅ [Verify](https://www.credly.com/badges/aa8e5ff3-d268-40ec-8163-246c705b865c/public_url) |
+| GISF — Information Security Fundamentals | GIAC | ✅ [Verify](https://www.credly.com/badges/bcaa2d68-6a6a-4860-b016-9e73f4cdeee0/public_url) |
+| CompTIA Network+ | CompTIA | ✅ [Verify](https://www.credly.com/badges/236a9ccc-8e5a-48de-9efe-96fb3f195e9c/public_url) |
+| CompTIA A+ | CompTIA | ✅ [Verify](https://www.credly.com/badges/9979cc3b-95b6-45da-9a14-55fc7b5f61c9/public_url) |
+| SC-900 — Security, Compliance & Identity | Microsoft | ✅ Certified |
+| AZ-900 — Azure Fundamentals | Microsoft | ✅ [Verify](https://www.credly.com/badges/4152e791-fdc2-4037-abaa-9af30ac0cdbb) |
+| DP-900 — Azure Data Fundamentals | Microsoft | ✅ [Verify](https://www.credly.com/badges/00b9fc8b-7001-4369-ba17-4c87be11ed84) |
+| SC-300 — Identity & Access Administrator | Microsoft | ⏳ In progress |
+| GWAPT — Web App Penetration Testing and Ethical Hacking | GIAC | ⏳ In progress |
+
+---
+
 [Certificate Verification →](Certifications/README.md)
 
 ---
