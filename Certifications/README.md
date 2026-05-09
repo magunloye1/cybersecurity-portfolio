@@ -54,7 +54,7 @@ This repository documents my professional certifications in cybersecurity, ident
 
 ---
 
-## GIAC Information Security Fundamentals (GISF)
+### GIAC Information Security Fundamentals (GISF)
 - Focus: 
 - Skills: 
 - Status: Certified
