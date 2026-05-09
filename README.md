@@ -134,15 +134,13 @@ This portfolio demonstrates a **balanced combination of hands-on labs, threat re
 | SC-300 — Identity & Access Administrator | Microsoft | ⏳ In progress |
 | GWAPT — Web App Penetration Testing and Ethical Hacking | GIAC | ⏳ In progress |
 
----
-
 [Certificate Verification →](Certifications/README.md)
 
 ---
 
-## Connect
- 
-- LinkedIn: (https://www.linkedin.com/in/marv-wip)  
-- GitHub: (https://github.com/magunloye1)
+## Let's connect
 
-*Thank you for visiting! Please explore my projects to follow my cybersecurity journey.*
+I'm actively looking for roles in SOC analysis, incident response, and identity security. If you're hiring or just want to talk security, reach out.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0078D4?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marv-wip)
+[![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat&logo=github&logoColor=white)](https://github.com/magunloye1)
