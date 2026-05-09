@@ -24,7 +24,7 @@ This portfolio demonstrates a **balanced combination of hands-on labs, threat re
 
 ---
 
-## 🛠 Skills & Focus Areas
+## 🛠 Skills, Focus Areas & Toolset
 
 - **Platforms:** Windows Server, Linux, Azure, AWS 
 - **Incident Response & Digital Forensics**: Log analysis, packet capture, malware inspection  
@@ -35,13 +35,22 @@ This portfolio demonstrates a **balanced combination of hands-on labs, threat re
 - **Scripting & Automation**: Python, Bash, PowerShell
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white)
-![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat&logo=microsoft-active-directory&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoft-azure&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D4?style=flat&logo=windows&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
+![Wazuh](https://img.shields.io/badge/Wazuh-00A9E0?style=flat&logo=wazuh&logoColor=white)
+![Security Onion](https://img.shields.io/badge/Security%20Onion-2E7D32?style=flat&logoColor=white)
+![Zeek](https://img.shields.io/badge/Zeek-777BB4?style=flat&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-017AFF?style=flat&logo=wireshark&logoColor=white)
+![tcpdump](https://img.shields.io/badge/tcpdump-2C2D72?style=flat&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-FF5C00?style=flat&logo=metasploit&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat&logo=burpsuite&logoColor=white)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-00549E?style=flat&logo=owasp&logoColor=white)
+![Hashcat](https://img.shields.io/badge/Hashcat-A9225C?style=flat&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Entra ID](https://img.shields.io/badge/Entra%20ID-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE%20ATT%26CK-E31837?style=flat&logoColor=white)
 
 ---
 
