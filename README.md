@@ -89,7 +89,7 @@ This portfolio demonstrates a **balanced combination of hands-on labs, threat re
   - Authentication and authorization weaknesses  
   - Input validation and injection risks  
   - Insecure configurations via manual and automated testing  
-- Assisted with **risk assessment and remediation guidance**, translating technical findings into actionable recommendations
+- Delivered risk-rated findings with actionable remediation guidance for the development team
 
 `Burp Suite` `OWASP ZAP` `OWASP Top 10` `Python`
 
