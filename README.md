@@ -65,8 +65,6 @@ This portfolio demonstrates a **balanced combination of hands-on labs, threat re
 - Implemented host and network-based intrusion detection using Wazuh and Security Onion 
 - Conducted vulnerability testing and exploitation using **Metasploit, John the Ripper, and Hashcat**
 
-[Read More →](AD-DC-System-Hardening/README.md)
-
 `Active Directory` `Wazuh` `Security Onion` `Metasploit`
 
 [Read more →](./AD-DC-System-Hardening/README.md)
