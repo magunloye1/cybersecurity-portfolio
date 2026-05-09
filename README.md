@@ -1,8 +1,15 @@
 # cybersecurity-portfolio
-Hands-on cybersecurity projects focused on incident response, IAM, and threat analysis.
+Hands-on cybersecurity projects focused on incident response, vulnerability management, IAM, and threat monitoring & analysis.
 
-**Welcome!**
-Hi, I’m Marvelous - a cybersecurity graduate with hands-on experience in system administration, IAM, and incident response across hybrid environments. This portfolio showcases my practical projects, attack analysis, and research insights, with an emphasis on **Windows and Linux environments, Active Directory/Entra ID, vulnerability management, and threat monitoring**.
+# Hi, I'm Marvelous Agunloye
+
+Cybersecurity graduate specialising in incident response, digital forensics, and identity security — with hands-on experience across Windows, Linux, and hybrid cloud environments.
+
+![GIAC](https://img.shields.io/badge/GIAC%20Certified%20(8×)-0078D4?style=flat&logoColor=white)
+![Threat Detection](https://img.shields.io/badge/Threat%20Detection%20%26%20IR-1D9E75?style=flat&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM%20%26%20Entra%20ID-7F77DD?style=flat&logoColor=white)
+![Platforms](https://img.shields.io/badge/Windows%20%26%20Linux-888780?style=flat&logoColor=white)
+![Cloud](https://img.shields.io/badge/Azure%20%26%20AWS-BA7517?style=flat&logoColor=white)
 
 ---
 
@@ -40,13 +47,19 @@ This portfolio demonstrates a **balanced combination of hands-on labs, threat re
 
 ## 📁 Projects
 
-### 1. Home Lab & AD Environment
+### 1. 🖥️ Home Lab — Active Directory & Hybrid Domain
 - Designed and deployed a hybrid **Windows + Linux domain environment**  
 - Configured **Active Directory with DHCP & DNS, File Server, Certificate Authority, RDS**, with multi-platform domain joined devices
 - Implemented host and network-based intrusion detection using Wazuh and Security Onion 
-- Conducted vulnerability testing and exploitation using **Metasploit, John the Ripper, Hashcat**
+- Conducted vulnerability testing and exploitation using **Metasploit, John the Ripper, and Hashcat**
 
 [Read More →](AD-DC-System-Hardening/README.md)
+
+`Active Directory` `Wazuh` `Security Onion` `Metasploit`
+
+[Read more →](./AD-DC-System-Hardening/README.md)
+
+---
 
 ### 2. Honeypot Threat Analysis
 - Set up and deployed an internet-facing honeypot on **Raspberry Pi 4**  with SANS Cowrie server config and custom logs
