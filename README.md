@@ -61,13 +61,17 @@ This portfolio demonstrates a **balanced combination of hands-on labs, threat re
 
 ---
 
-### 2. Honeypot Threat Analysis
+### 2. 🍯 Honeypot Threat Analysis — IoT Attack Surface
 - Set up and deployed an internet-facing honeypot on **Raspberry Pi 4**  with SANS Cowrie server config and custom logs
 - Monitored and captured attacks targeting IoT devices, performed traffic analysis, and extracted malware payloads  
-- Summarized multiple attack observations, highlighting payloads, MITRE techniques, and prevention strategies  
+- Mapped observations to MITRE ATT&CK techniques and documented prevention strategies
+- Wrote a companion deep-dive on polyglot file abuse for stealth payload delivery.
+
+`Cowrie` `MITRE ATT&CK` `Wireshark` `Malware Analysis`
+  
 - **Detailed observations & analyses**:  
-  - [Attack Observations](Honeypot-Threat-Analysis/Observations.md)  
-  - [Polyglot File Research – Blog Post](BlogPosts/WhenAGIFIsntJustAGIF.md)  
+  - [Attack Observations →](Honeypot-Threat-Analysis/Observations.md)  
+  - [Blog Post on Polyglot File Research: When a GIF Isn't Just a GIF →](./BlogPosts/WhenAGIFIsntJustAGIF.md)  
 
 ### 3. Cloud & IAM 
 - Worked with **Azure & AWS environments** to configure IAM and security policies  
