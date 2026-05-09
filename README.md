@@ -67,7 +67,7 @@ This portfolio demonstrates a **balanced combination of hands-on labs, threat re
 
 `Active Directory` `Wazuh` `Security Onion` `Metasploit`
 
-[Read more →](./AD-DC-System-Hardening/README.md)
+[Read more →](./System-Hardening/README.md)
 
 ---
 
