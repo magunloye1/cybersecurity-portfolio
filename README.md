@@ -71,24 +71,31 @@ This portfolio demonstrates a **balanced combination of hands-on labs, threat re
   
 - **Detailed observations & analyses**:  
   - [Attack Observations →](Honeypot-Threat-Analysis/Observations.md)  
-  - [Blog Post on Polyglot File Research: When a GIF Isn't Just a GIF →](./BlogPosts/WhenAGIFIsntJustAGIF.md)  
+  - [Blog Post on Polyglot File Research: When a GIF Isn't Just a GIF →](./BlogPosts/WhenAGIFIsntJustAGIF.md)
+ 
+---
 
-### 3. Cloud & IAM 
-- Worked with **Azure & AWS environments** to configure IAM and security policies  
-- Explored AD and Entra ID integrations, user management, and system hardening best practices
+### 3. ☁️ Cloud IAM — Azure & AWS Security Configurations 
+- Configured IAM policies, Conditional Access, and identity governance in Azure Entra ID and AWS environments.  
+- Explored AD and Entra ID integrations, user lifecycle management, MFA enforcement and system hardening best practices
 
-### 4. Web Application Security (Hometrumpeter Inc.)
-- Supported web application security assessments as part of a collaborative security review effort  
-- Conducted **manual and automated testing** aligned with OWASP Top 10 categories  
+`Azure Entra ID` `AWS IAM` `Conditional Access`
+
+---
+
+### 4. 🌐 Web Application Security — Hometrumpeter Inc.
+- Supported a real-world security assessment aligned with OWASP Top 10.  
 - Identified and documented issues related to:
   - Authentication and authorization weaknesses  
   - Input validation and injection risks  
-  - Insecure configurations and exposed services  
-- Assisted with **risk assessment and remediation guidance**, translating technical findings into actionable recommendations  
-- Gained experience working within a **real-world development environment**, balancing security findings with business and operational context
+  - Insecure configurations via manual and automated testing  
+- Assisted with **risk assessment and remediation guidance**, translating technical findings into actionable recommendations
 
-[Read More →](Web-App-Security/README.md)
+`Burp Suite` `OWASP ZAP` `OWASP Top 10` `Python`
 
+[Read more →](./Web-App-Security/README.md)
+
+---
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF5722?style=flat&logo=burpsuite&logoColor=white)
