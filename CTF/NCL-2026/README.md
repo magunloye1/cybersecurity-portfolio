@@ -12,7 +12,7 @@ The Spring 2026 season drew **7,520 students** from over 440 institutions across
 
 ## My Background & Why I Competed
 
-I came to cybersecurity through a genuine curiosity about how systems fail — and a conviction that understanding how attackers think is the only real way to build effective defences. My academic path through the BACS program, combined with hands-on lab work in Active Directory environments, network monitoring, and digital forensics, gave me a technical foundation going into NCL. The CTF was an opportunity to stress-test that foundation under time pressure, against real challenge design, and in both individual and team settings.
+I came to cybersecurity through a genuine curiosity about how systems fail — and a conviction that understanding how attackers think is the only real way to build effective defences. My academic path through the BACS program, combined with hands-on lab work in Active Directory environments, network monitoring, and digital forensics, gave me a technical foundation going into NCL. The CTF was an opportunity to stress-test that foundation under time pressure, against a real challenge, and in both individual and team settings.
 
 ---
 
@@ -81,19 +81,19 @@ I came to cybersecurity through a genuine curiosity about how systems fail — a
 
 ## Reflection
 
-### What the Individual Game taught me
+### What the Individual Game taught me:
 
 Going solo exposed exactly where my gaps were. Scanning & Reconnaissance was my strongest category — a perfect 300/300, top 6% nationally — which reflects genuine comfort with enumeration tools and methodology. Log analysis and network traffic analysis also held up well at 90%+ completion, consistent with the defensive work I've done in my home lab with Security Onion and Wazuh.
 
 The harder lessons came from Forensics and Web Application Exploitation. Forensics was a time management failure more than a skills gap — I didn't reach those challenges — but web exploitation exposed real weaknesses in my offensive web knowledge that I'm addressing. Cryptography showed an interesting split: I solved the hard RSA challenge (Broken Signer, 100% accuracy) but dropped points on medium challenges requiring deeper mathematical intuition, which tells me my applied crypto is stronger than my theoretical crypto.
 
-### What the Team Game showed
+### What the Team Game showed:
 
 The team environment changed everything. Accuracy jumped from 59.1% to 79.3% — 18 percentage points — not because the challenges were easier but because collaboration eliminates the tunnel vision that solo competition creates. Our team hit 100% completion in Password Cracking (355/355, 99th percentile) and I contributed across Forensics and Scanning & Reconnaissance at the 94th percentile level.
 
 The team format also surfaced something I didn't expect: I found myself gravitating toward coordinating approaches across challenges, not just solving my own queue. That instinct toward communication and structured problem-solving under pressure feels like something worth noting — it shows up in SOC and IR work too.
 
-### Where I'm focusing next
+### Where I'm focusing on next:
 
 The clearest gap from both games is **web application exploitation**. I finished 78th percentile individually and 94th in the team game, meaning my baseline is there but I still lack consistency on advanced techniques. I'm working through this deliberately by undertaking the **GIAC GWAPT - Web Penetration Testing and Ethical Hacking course**.
 
