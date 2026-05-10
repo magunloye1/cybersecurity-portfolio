@@ -85,7 +85,7 @@ I came to cybersecurity through a genuine curiosity about how systems fail — a
 
 Going solo exposed exactly where my gaps were. Scanning & Reconnaissance was my strongest category — a perfect 300/300, top 6% nationally — which reflects genuine comfort with enumeration tools and methodology. Log analysis and network traffic analysis also held up well at 90%+ completion, consistent with the defensive work I've done in my home lab with Security Onion and Wazuh.
 
-The harder lessons came from Forensics (0 points) and Web Application Exploitation (5.3% completion). Forensics was a time management failure more than a skills gap — I didn't reach those challenges — but web exploitation exposed real weaknesses in my offensive web knowledge that I'm addressing. Cryptography showed an interesting split: I solved the hard RSA challenge (Broken Signer, 100% accuracy) but dropped points on medium challenges requiring deeper mathematical intuition, which tells me my applied crypto is stronger than my theoretical crypto.
+The harder lessons came from Forensics and Web Application Exploitation. Forensics was a time management failure more than a skills gap — I didn't reach those challenges — but web exploitation exposed real weaknesses in my offensive web knowledge that I'm addressing. Cryptography showed an interesting split: I solved the hard RSA challenge (Broken Signer, 100% accuracy) but dropped points on medium challenges requiring deeper mathematical intuition, which tells me my applied crypto is stronger than my theoretical crypto.
 
 ### What the Team Game showed
 
