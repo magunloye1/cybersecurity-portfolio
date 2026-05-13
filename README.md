@@ -148,5 +148,5 @@ This portfolio demonstrates a **balanced combination of hands-on labs, threat re
 
 I'm actively looking for roles in SOC analysis, incident response, and identity security. If you're hiring or just want to talk security, reach out.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0078D4?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marv-wip)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0078D4?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marvelousagunloye/)
 [![GitHub](https://img.shields.io/badge/GitHub-24292e?style=flat&logo=github&logoColor=white)](https://github.com/magunloye1)
