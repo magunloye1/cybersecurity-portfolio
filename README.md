@@ -60,10 +60,10 @@ This portfolio demonstrates a **balanced combination of hands-on labs, threat re
 
 ## 📁 Projects
 
-### Current Ongoing Project - Secure Home Network with Firewall & VLAN Segmentation
+### Ongoing Projects - Secure Home Network with Firewall & VLAN Segmentation
 ![Status](https://img.shields.io/badge/Status-In_Progress-F5A623?style=for-the-badge)
 
-Building a secure, segmented home network using a Raspberry Pi 5 as an OpenWRT router/firewall with three isolated VLANs (Personal, Guest, IoT), per-VLAN DHCP and DNS.A Cloudflare malware-blocking, IoT DNS hijacking, and Pi-hole ad filtering service are also implemented. Traffic is routed through a HP managed switch with a Cradlepoint router serving as a VLAN-aware access point..
+I am currently building a secure, segmented home network using a Raspberry Pi 5 as an OpenWRT router/firewall with three isolated VLANs (Personal, Guest, IoT), per-VLAN DHCP and DNS. Cloudflare malware-blocking, IoT DNS hijacking, and Pi-hole ad filtering service are also implemented. Traffic is routed through a HP managed switch with a Cradlepoint router serving as a VLAN-aware access point..
 
 ![OpenWRT](https://img.shields.io/badge/OpenWRT-25.12.2-00B5E2?style=flat&logo=openwrt&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi_5-Firewall-C51A4A?style=flat&logo=raspberrypi&logoColor=white)
