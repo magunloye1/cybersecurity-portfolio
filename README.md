@@ -59,6 +59,24 @@ This portfolio demonstrates a **balanced combination of hands-on labs, threat re
 
 ## 📁 Projects
 
+### Current Project - Secure Home Network with Firewall & VLAN Segmentation
+
+Building a secure, segmented home network using a Raspberry Pi 5 as an OpenWRT router/firewall with three isolated VLANs (Personal, Guest, IoT), per-VLAN DHCP and DNS, Cloudflare malware-blocking, IoT DNS hijacking, and Pi-hole ad filtering.
+Traffic is routed an HP 2530-24G managed switch with a Cradlepoint MBR1000 as a VLAN-aware access point, all sitting behind a router.
+
+---
+
+![OpenWRT](https://img.shields.io/badge/OpenWRT-25.12.2-00B5E2?style=for-the-badge&logo=openwrt&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi_5-4GB-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi_3B+-Pi--hole-C51A4A?style=for-the-badge&logo=raspberrypi&logoColor=white)
+![Pi-hole](https://img.shields.io/badge/Pi--hole-DNS_Filtering-96060C?style=for-the-badge&logo=pihole&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-1.1.1.2_DNS-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![HP](https://img.shields.io/badge/HP_2530--24G-Managed_Switch-0096D6?style=for-the-badge&logo=hp&logoColor=white)
+![VLAN](https://img.shields.io/badge/VLANs-10_|_20_|_30-4D8EFF?style=for-the-badge)
+![Status](https://img.shields.io/badge/Status-In_Progress-F5A623?style=for-the-badge)
+
+---
+
 ### 1. 🖥️ Home Lab — Active Directory & Hybrid Domain
 - Designed and deployed a hybrid **Windows + Linux domain environment**  
 - Configured **Active Directory with DHCP & DNS, File Server, Certificate Authority, RDS**, with multi-platform domain joined devices
