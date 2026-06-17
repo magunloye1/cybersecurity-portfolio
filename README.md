@@ -5,7 +5,7 @@ Hands-on cybersecurity projects focused on incident response, vulnerability mana
 
 Cybersecurity graduate specialising in incident response, digital forensics, and identity security — with hands-on experience across Windows, Linux, and hybrid cloud environments.
 
-![GIAC](https://img.shields.io/badge/GIAC%20Certified%20(8×)-0078D4?style=flat&logoColor=white)
+![GIAC](https://img.shields.io/badge/GIAC%20Certified%20(9×)-0078D4?style=flat&logoColor=white)
 ![Threat Detection](https://img.shields.io/badge/Threat%20Detection%20%26%20IR-1D9E75?style=flat&logoColor=white)
 ![IAM](https://img.shields.io/badge/IAM%20%26%20Entra%20ID-7F77DD?style=flat&logoColor=white)
 ![Platforms](https://img.shields.io/badge/Windows%20%26%20Linux-888780?style=flat&logoColor=white)
@@ -140,6 +140,7 @@ I am currently building a secure, segmented home network using a Raspberry Pi 5 
 
 | Certification | Issuer | Status |
 |---|---|---|
+| GWAPT — Web App Penetration Testing and Ethical Hacking | GIAC | ✅ [Verify](https://www.credly.com/badges/c9ce14b4-865a-4351-bb26-42d8feb00fdb/public_url) |
 | GCFE — Certified Forensic Examiner | GIAC | ✅ [Verify](https://www.credly.com/badges/6b27b413-e4eb-42ac-a6c9-5c755b8272ae/public_url) |
 | GMON — Threat Detection & Monitoring | GIAC | ✅ [Verify](https://www.credly.com/badges/3ccdafed-be03-498b-a217-086d0bc8d194/public_url) |
 | GCIA — Certified Intrusion Analyst | GIAC | ✅ [Verify](https://www.credly.com/badges/1140c87d-8fdb-40c1-bc76-5b5dba6124c3/public_url) |
@@ -154,7 +155,6 @@ I am currently building a secure, segmented home network using a Raspberry Pi 5 
 | AZ-900 — Azure Fundamentals | Microsoft | ✅ [Verify](https://www.credly.com/badges/4152e791-fdc2-4037-abaa-9af30ac0cdbb) |
 | DP-900 — Azure Data Fundamentals | Microsoft | ✅ [Verify](https://www.credly.com/badges/00b9fc8b-7001-4369-ba17-4c87be11ed84) |
 | SC-300 — Identity & Access Administrator | Microsoft | ⏳ In progress |
-| GWAPT — Web App Penetration Testing and Ethical Hacking | GIAC | ⏳ In progress |
 
 [Certificate Verification →](Certifications/README.md)
 
